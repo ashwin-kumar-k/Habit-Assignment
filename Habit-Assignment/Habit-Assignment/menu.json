@@ -1,0 +1,76 @@
+{
+    "triedTastedLoved": [
+        {
+            "id": 1,
+            "name": "Paneer Butter Masala",
+            "description": "Creamy tomato-based curry with soft paneer cubes",
+            "price": 180,
+            "image": "paneer_butter_masala"
+        },
+        {
+            "id": 2,
+            "name": "Chicken Biryani",
+            "description": "Fragrant rice with spiced chicken and caramelized onions",
+            "price": 220,
+            "image": "chicken_biryani"
+        },
+        {
+            "id": 3,
+            "name": "Masala Dosa",
+            "description": "Crispy dosa filled with spicy mashed potatoes",
+            "price": 90,
+            "image": "masala_dosa"
+        },
+        {
+            "id": 4,
+            "name": "Mutton Rogan Josh",
+            "description": "Tender lamb cooked in aromatic Kashmiri spices",
+            "price": 250,
+            "image": "mutton_rogan_josh"
+        }
+    ],
+    "lookingForMore": [
+        {
+            "id": 5,
+            "name": "Veg Manchurian",
+            "description": "Fried veggie balls tossed in Indo-Chinese sauce",
+            "price": 120,
+            "image": "veg_manchurian"
+        },
+        {
+            "id": 6,
+            "name": "Tandoori Chicken",
+            "description": "Chicken marinated in yogurt and spices, grilled to perfection",
+            "price": 200,
+            "image": "tandoori_chicken"
+        },
+        {
+            "id": 7,
+            "name": "Butter Naan",
+            "description": "Soft Indian flatbread brushed with butter",
+            "price": 40,
+            "image": "butter_naan"
+        },
+        {
+            "id": 8,
+            "name": "Chole Bhature",
+            "description": "Spicy chickpeas served with fluffy fried bread",
+            "price": 100,
+            "image": "chole_bhature"
+        },
+        {
+            "id": 9,
+            "name": "Fish Curry",
+            "description": "Spicy and tangy fish curry from the coastal region",
+            "price": 230,
+            "image": "fish_curry"
+        },
+        {
+            "id": 10,
+            "name": "Gulab Jamun",
+            "description": "Soft deep-fried dumplings soaked in sugar syrup",
+            "price": 60,
+            "image": "gulab_jamun"
+        }
+    ]
+}
